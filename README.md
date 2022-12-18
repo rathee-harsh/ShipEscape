@@ -1,5 +1,7 @@
-WALKTHROUGH
------------
+# Ship Escape
+
+## Walkthrough
+
 To win, you need to get a map and find your ship.  You also need a wall to repair the ship. To get the map, you need to find a man in 
 a cave who asks you to bring him a torch, and he would give you the map in-return.
 Entering the following commands.
@@ -88,3 +90,9 @@ NOTE: Some commands like rest, drop etc. are not used here (since the game can b
 Rest makes you fall asleep and causes the time to change.
 Older commands - drop, examine, and inventory from the orignal implementation still work as expected.
 
+## NOTE
+When using the GUI version of the game, please maximize the window so that no text is left out of the screen. In the GUI version,
+the player status and the time are in the bottom left corner of the screen
+
+## CREDITS
+The game is built on top of the Adventure module (defining the UI part and some starting code for the internal model of the game) in the O1 programming course at Aalto University which is available at: https://gitmanager.cs.aalto.fi/static/O1_2022/modules/given/Adventure/
