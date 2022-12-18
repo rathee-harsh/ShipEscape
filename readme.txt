@@ -1,0 +1,2 @@
+When using the GUI version of the game, please maximize the window so that no text is left out of the screen. In the GUI version,
+the player status and the time are in the bottom left corner of the screen
